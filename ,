@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="My personal blog about the learning environment at KL University.">
+    <title>My KLU Journey | Personal Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="hero">
+    <h1>My Learning Journey at KL University</h1>
+    <p>Learning Today, Leading Tomorrow</p>
+</header>
+
+<nav aria-label="Main navigation">
+    <a href="#home">Home</a>
+    <a href="#about">About KLU</a>
+    <a href="#learning">Learning</a>
+    <a href="#campus">Campus Life</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+
+    <section id="home" class="intro">
+        <h2>Welcome to My Personal Blog</h2>
+        <p>
+            Hello! I am a student of KL University, pursuing
+            Electronics and Communication Engineering.
+            This blog shares my experiences and learning journey
+            in the university.
+        </p>
+    </section>
+
+    <section id="about">
+        <h2>About KL University</h2>
+        <article>
+            <p>
+                KL University, located at Vaddeswaram,
+                Andhra Pradesh, provides an educational
+                environment that encourages academic growth,
+                innovation and practical learning.
+            </p>
+        </article>
+    </section>
+
+    <section id="learning">
+        <h2>My Learning Environment</h2>
+
+        <article class="card">
+            <h3>Classroom Learning</h3>
+            <p>
+                Interactive classroom sessions help students
+                understand concepts and improve communication
+                and problem-solving skills.
+            </p>
+        </article>
+
+        <article class="card">
+            <h3>Laboratory Experience</h3>
+            <p>
+                Laboratories provide practical experience
+                through experiments, electronic circuits,
+                programming and technical projects.
+            </p>
+        </article>
+
+        <article class="card">
+            <h3>Technology and Innovation</h3>
+            <p>
+                Students explore modern technologies through
+                projects, teamwork, coding activities and
+                technical events.
+            </p>
+        </article>
+
+        <article class="card">
+            <h3>Faculty Support</h3>
+            <p>
+                Faculty members guide students in academics,
+                projects and skill development.
+            </p>
+        </article>
+    </section>
+
+    <section id="campus">
+        <h2>Campus Life</h2>
+        <p>
+            Campus life at KLU offers opportunities to
+            participate in clubs, cultural activities,
+            sports, technical events and student activities.
+            These experiences help develop leadership,
+            teamwork and confidence.
+        </p>
+    </section>
+
+    <aside>
+        <h3>My Goal</h3>
+        <p>
+            My goal is to improve my technical knowledge,
+            develop practical skills and become a successful
+            engineer.
+        </p>
+    </aside>
+
+</main>
+
+<footer id="contact">
+    <h3>My Personal Blog</h3>
+    <p>Created by KLU Student | ECE Department</p>
+    <p>&copy; 2026 My KLU Learning Journey</p>
+</footer>
+
+</body>
+</html>
